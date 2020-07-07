@@ -1,1 +1,1 @@
-# progate.gihub.io
+# progate.github.io
